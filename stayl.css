@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;}
+
+
+header{
+  
+}
+body{
+    background-image: url('/bacraund.jpg');
+}
+.gitr{
+    width: 400px;
+    height: 300px;
+    margin-left: 150px;
+}
+.sect{
+    width: 100%;
+    height: 100%;
+}
+.bint{
+    margin-left: 100px;
+}
